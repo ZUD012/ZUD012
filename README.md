@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm PARTH
+d# 💫 Hi 👋, I'm PARTH
 **A passionate ENTERPRENUER || M.L Engineer || stratup.name**
 
 Email Me 👉 ✉️ **parthdevlal11@gmail.com** For Collaboration/Project or Anything Else. 😊😊
@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **parthdevlal11@gmail.com** For Collaboration/Project or An
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** parthdevlal11@gmail.com
 - 😄 **Pronouns:** ZUDO
-- ⚡ **Fun fact:** Trying to lead India in AI and Machine learning 
+- ⚡ **Fun fact:** Trying to lead India in AI and Machine learning field
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zudo3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/--parth.2226) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ parth-devlal-189053340) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parthdevlal11@gmail.com) 
 
