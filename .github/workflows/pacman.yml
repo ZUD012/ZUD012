@@ -2,10 +2,8 @@
 name: Generate Pacman Contribution Graph
 
 on:
-  # This will run the action every day at midnight
   schedule:
     - cron: "0 0 * * *"
-  # This allows you to run the action manually from the Actions tab
   workflow_dispatch:
 
 jobs:
@@ -14,14 +12,22 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Pac-Man Contribution Graph
+      - name: Generate Light Mode Pacman Graph
         uses: platane/platane-pacman@v1
         with:
-          # Your GitHub username
           github_user_name: "ZUD012"
-          
-          # The branch where the file will be saved
-          target_branch: main
-
-          # The name of the file to be generated
+          # The file for light mode
           file_path: pacman-contribution-graph.svg
+          # The branch where BOTH files will be saved
+          target_branch: output 
+
+      - name: Generate Dark Mode Pacman Graph
+        uses: platane/platane-pacman@v1
+        with:
+          github_user_name: "ZUD012"
+          # The file for dark mode
+          file_path: pacman-contribution-graph-dark.svg
+          # The branch where BOTH files will be saved
+          target_branch: output
+          # Built-in dark theme
+          theme: "dracula"
