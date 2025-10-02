@@ -13,21 +13,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate Light Mode Pacman Graph
+        # Ensure this line is exactly platane/platane-pacman@v1
         uses: platane/platane-pacman@v1
         with:
           github_user_name: "ZUD012"
-          # The file for light mode
           file_path: pacman-contribution-graph.svg
-          # The branch where BOTH files will be saved
           target_branch: output 
 
       - name: Generate Dark Mode Pacman Graph
+        # Ensure this line is also exactly platane/platane-pacman@v1
         uses: platane/platane-pacman@v1
         with:
           github_user_name: "ZUD012"
-          # The file for dark mode
           file_path: pacman-contribution-graph-dark.svg
-          # The branch where BOTH files will be saved
           target_branch: output
-          # Built-in dark theme
           theme: "dracula"
