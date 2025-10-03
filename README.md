@@ -4,7 +4,7 @@ d# 💫 Hi 👋, I'm PARTH
 Email Me 👉 ✉️ **parthdevlal11@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Learning diffrent elements of Ai , Machine learning and robotics
-- 🌱 **I’m currently learning:** Pandas  
+- 🌱 **I’m currently learning:** Pandas in python
 - 👯 **I’m looking to collaborate on:** Data handling projects
 - 🤔 **I’m looking for help with:** 
 - 💬 **Ask me about:** Collaboration, Tech Support
