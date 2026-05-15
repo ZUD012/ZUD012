@@ -1,5 +1,5 @@
 d# 💫 Hi 👋, I'm PARTH
-**A passionate ENTERPRENUER || M.L Engineer || stratup.name**
+**A passionate ENTERPRENUER || M.L Engineer || 
 
 Email Me 👉 ✉️ **parthdevlal11@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
