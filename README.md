@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00FF9C&height=220&section=header&text=MAGIX%20BOCS&fontSize=70&fontColor=00FF9C&fontAlignY=38&animation=fadeIn&desc=PARTH&descAlignY=55&descSize=22&descColor=E6FFF5" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00FF9C&height=220&section=header&text=MAGIX%20BOCS&fontSize=70&fontColor=00FF9C&fontAlignY=38&animation=fadeIn&desc=-By%20Parth&descAlignY=55&descSize=22&descColor=E6FFF5" />
 
 <sub>Agentic AI • LangGraph • MCP</sub>
 
