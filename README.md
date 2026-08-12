@@ -54,15 +54,37 @@ class MagixBocs:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,fastapi,postgres,docker,pytorch,linux,git,vscode,githubactions&theme=dark&perline=9" />
+**Languages**
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,cpp&theme=dark&perline=9" />
 
+<br/>
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0F2027)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0F2027)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white&labelColor=0F2027)
+
+<br/>
+
+**Agentic / LLM Tooling**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00FF9C&labelColor=0F2027)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=00FF9C&labelColor=0F2027)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=00FF9C&labelColor=0F2027)
 ![FastMCP](https://img.shields.io/badge/FastMCP-00FF9C?style=for-the-badge&logo=lightning&logoColor=0F2027&labelColor=0F2027)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0F2027)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0F2027)
 ![Mistral](https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge&logo=mistralai&logoColor=white&labelColor=0F2027)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white&labelColor=0F2027)
+
+<br/>
+
+**Data / Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0F2027)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0F2027)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white&labelColor=0F2027)
 
 </div>
 
