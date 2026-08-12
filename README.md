@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00FF9C&height=220&section=header&text=MAGIX%20BOCS&fontSize=70&fontColor=00FF9C&fontAlignY=40&animation=fadeIn&desc=Parth%20%E2%80%94%20Agentic%20AI%20%2F%20LangGraph%20%2F%20MCP&descAlignY=58&descSize=20&descColor=E6FFF5" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00FF9C&height=220&section=header&text=MAGIX%20BOCS&fontSize=70&fontColor=00FF9C&fontAlignY=38&animation=fadeIn&desc=PARTH&descAlignY=55&descSize=22&descColor=E6FFF5" />
+
+<sub>Agentic AI • LangGraph • MCP</sub>
 
 <!-- Boot-sequence style typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2200&pause=600&color=00FF9C&center=true&vCenter=true&width=700&lines=%24+ssh+magixbocs%40fedora;Authenticating...+%E2%9C%93;Loading+agents%3A+LangGraph+%2B+FastMCP...+%E2%9C%93;%24+whoami+%E2%86%92+parth+%2F+magix+bocs;%24+status%3A+shipping+%F0%9F%9A%80" alt="Typing SVG" />
