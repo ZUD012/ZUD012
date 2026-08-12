@@ -89,7 +89,7 @@ class MagixBocs:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ZUD012&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy-winning.vercel.app/?username=ZUD012&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
@@ -107,15 +107,19 @@ class MagixBocs:
 
 </div>
 
-### 🐍 Contribution Snake
+### 🚀 Contribution Galaga
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ZUD012/ZUD012/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZUD012/ZUD012/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZUD012/ZUD012/output/galaga-contribution-graph.svg">
+  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/ZUD012/ZUD012/output/galaga-contribution-graph-dark.svg" />
+</picture>
 
 </div>
 
-<sub>⚠️ Snake needs a one-time GitHub Action to generate — see setup note below.</sub>
+<sub>⚠️ Needs the arcade.yml GitHub Action to run once before this shows up.</sub>
 
 ---
 
