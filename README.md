@@ -72,10 +72,10 @@ class MagixBocs:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZUD012&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=00FF9C&title_color=00FF9C&text_color=E6FFF5&bg_color=0F2027" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=ZUD012&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=00FF9C&title_color=00FF9C&text_color=E6FFF5&bg_color=0F2027" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=ZUD012&theme=github-dark-blue&hide_border=true&background=0F2027&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZUD012&layout=compact&theme=github_dark&hide_border=true&bg_color=0F2027&title_color=00FF9C" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ZUD012&layout=compact&theme=github_dark&hide_border=true&bg_color=0F2027&title_color=00FF9C" width="48%" />
 
 <br/>
 
