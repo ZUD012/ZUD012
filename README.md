@@ -141,13 +141,10 @@ class MagixBocs:
 
 </div>
 
-<sub>⚠️ Needs the arcade.yml GitHub Action to run once before this shows up.</sub>
-
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:203A43,100:0F2027&height=120&section=footer" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:203A43,100:0F2027&height=100&section=footer" />
 <sub>if it compiles and the agent doesn't hallucinate, ship it 🚀</sub>
 </div>
